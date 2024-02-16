@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798522591923",
+    "project_id": "gold-courage-404816",
+    "storage_bucket": "gold-courage-404816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798522591923:android:602f5e7a251a3447647ec6",
+        "android_client_info": {
+          "package_name": "com.example.kisanseva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmxbmx8e3iXKVlkMhTUuw2bMyxu39wW3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
