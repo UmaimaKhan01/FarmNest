@@ -1,21 +1,5 @@
 # KisanSeva - one stop for Indian farmers
 
-This is the official code repository for _Code Monks_ . This _simple, light weight mobile application built in Flutter_ was developed during Accelathon 2.0
-the online the annual inter college hackathon and also awarded Certificate of Excellence at IFPPC conducted by Sikkim Manipal University.
-
-### _Code Monks_
-
-* _Utkarsh Agarwal_
-* _Satyam Kumar_
-* _Akarsh Simha_
-* _Anusha Deshmukh_
-
-### Important Links
-
-[Demo video link](https://drive.google.com/drive/folders/1_QH_19TQNeMMl10CCHcl1uMIb5t8LOny)
-
-[Presentation of our idea](https://www.canva.com/design/DAEODJfeMvQ/qXX7OivLJ0kkQ7KPmvaJ-w/edit)
-
 [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
 [ML model for crop prediction written on Colab ](https://colab.research.google.com/drive/17jMLUXK8p6B48CAPW_8DZANxF_CB3jDY?authuser=1)
@@ -24,9 +8,6 @@ the online the annual inter college hackathon and also awarded Certificate of Ex
 
 ### Overview
 
-A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far. 
-
-So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
 App has multiple features - 
 1- Secured Authentication (via OTP)
@@ -39,7 +20,6 @@ App has multiple features -
 7- Feed 
 8- Toll free number/ expert assistance
 
-The best thing about the app is its built in 10 days !!! 
 
 ### _Challenges we ran into_
 _The most challenging tasks we faced for this project were tflite implementation,using pandas,numpy and scikit learn to predict crop which is yet not too accurate_.
