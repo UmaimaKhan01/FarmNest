@@ -1,4 +1,4 @@
-# KisanSeva - one stop for Indian farmers
+# FarmNest - one stop for Indian farmers
 
 [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
 
@@ -38,20 +38,6 @@ _The most challenging tasks we faced for this project were tflite implementation
 * Pandas
 * Numpy
 * Real-time Database
-
-### Screenshots/Demo Video
-
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" width="250" title="hover text">
-
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.jpg" width="250" title="hover text">
-
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_083435.jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.png" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s%20(1).jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_084044.jpg" width="250" title="hover text">
-
-
-
 
 ### Usage
 
